@@ -1,6 +1,5 @@
 body {
   background-image: url('PDHOME.jpg');
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
   background-repeat: no-repeat;
 }
