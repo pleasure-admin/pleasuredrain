@@ -24,9 +24,10 @@ input[type="submit"] {
   width: 200px;
   font-family: sans-serif;
   font-weight: 600;
+  font-size:16px;
   display: block;
   margin: 0 auto;
-  background-color: #8bddee;
+  background-color: transparent;
   color: black;
   border: none;
   cursor: pointer;
