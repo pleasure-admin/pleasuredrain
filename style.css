@@ -1,10 +1,5 @@
-head {
-	  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-}
-
 body {
   background-image: url('PDHOME.jpg');
-  background-size: contain;
+  background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
