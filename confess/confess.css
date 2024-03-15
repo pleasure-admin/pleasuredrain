@@ -1,5 +1,10 @@
-CSS
-/* Style the form elements here (e.g., margins, padding, font size) */
+body {
+  background-image: url(PDHOME.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
 form {
   margin: 20px auto;
   padding: 20px;
