@@ -28,7 +28,7 @@ input[type="submit"] {
   display: block;
   margin: 0 auto;
   background-color: transparent;
-  color: black;
+  color: #8bddee;
   border: none;
   cursor: pointer;
 }
