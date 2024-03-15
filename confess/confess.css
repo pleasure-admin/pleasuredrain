@@ -5,6 +5,12 @@ body {
   background-position: center top;
 }
 
+form {
+  margin: 20px auto;
+  padding: 20px;
+  width: 400px;
+}
+
 label {
   display: block;
   margin-bottom: 5px;
