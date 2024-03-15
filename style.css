@@ -1,5 +1,4 @@
 body {
   background-image: url('PDHOME.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: cover;
 }
