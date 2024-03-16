@@ -1,13 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  height: 100vh; /* Set body height to 100 viewport height */
+  height: 100vh; 
 }
 
 .container {
   background-image: url(pdhome.jpg);
-  background-size: 100% auto; /* Ensures image covers the entire container */
+  background-size: 100% auto;
   background-repeat: no-repeat;
-  height: 400%; /* Set container height to 100% */
-  overflow: auto; /* Enable scrolling when needed */
+  height: 400%;
+  overflow: auto;
 }
