@@ -10,7 +10,6 @@ const images = [
     const randomIndex = Math.floor(Math.random() * images.length);
     const randomImageUrl = images[randomIndex];
     backgroundContainer.style.backgroundImage = `url(${randomImageUrl})`;
-    backgroundContainer.style.backgroundSize = "cover";
   }
   
   getRandomImage();
