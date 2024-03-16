@@ -1,7 +1,7 @@
 const images = [
-    "https://www.pleasuredrain.com/img/1.jpg",
-    "https://www.pleasuredrain.com/img/2.jpg",
-    "https://www.pleasuredrain.com/img/3.jpg"
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
   ];
   
   const backgroundContainer = document.getElementById("background-container");
